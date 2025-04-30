@@ -36,10 +36,13 @@
 2.	Метод: copy_expert (StringIO) для малых данных
  
 ![image](https://github.com/user-attachments/assets/0110d61e-9e95-4695-8331-c999370f2e21)
+![image](https://github.com/user-attachments/assets/27840533-35c5-480f-a522-10531893d62d)
+
 
 3.	Метод: copy_expert (file) для больших данных
    
  ![image](https://github.com/user-attachments/assets/d870d59b-8006-44d7-908d-b44d35654164)
+![image](https://github.com/user-attachments/assets/26720b38-ab0f-4ca9-a132-2328d5af57f9)
 
 
 4.	SQL: вычислить суммарную total_revenue в sales_small, где quantity < 10.
